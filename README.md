@@ -17,3 +17,5 @@
 
 
 ![그림5](https://github.com/Lindashin15/Infomation/blob/main/%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B75.png)
+
+![그림1](https://github.com/Lindashin15/studyImage/blob/main/object%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B71.png)
